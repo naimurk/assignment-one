@@ -159,7 +159,8 @@ main{
     background-color:white;
     width: 100%;
     padding-top:150px;
-    margin-bottom: 250px;
+    margin-bottom: 100px;
+   
 }
 
 .heading-three{
@@ -337,4 +338,64 @@ footer{
         border-color: #005FAC;
         text-align: center;
 
+    }
+
+
+
+    /* optional part  */
+
+
+
+    .exceptional-section{
+        
+        background-color: #151414;
+        margin-bottom: 400px;
+        color: white;
+        text-align: center;
+        padding-top: 150px;
+        padding-bottom: 150px;
+        padding-left: 100px;
+        padding-right: 100px;
+        
+    }
+
+
+    .exceptional-heading{
+        font-size: 45px;
+        font-weight: 700;
+        padding: 0 430px;
+        line-height: 57px;
+    }
+
+    .exceptional-para {
+        font-size: 16px;
+        font-weight: 400;
+        padding: 0 430px;
+        line-height: 27px;
+        margin-bottom: 50px;
+    }
+
+
+
+    .exceptional-div{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .exceptional-sub-div {
+        border-style: solid;
+        border-width: 1px;
+        border-color: white;
+        border-radius: 5px;
+        margin: 0 25px;
+        padding: 55px;
+    }
+
+
+    .exceptional-sub-para{
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 27px;
     }
